@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">saudacao</string>
     <string name="name">João Vitor Paulino Portela</string>
-    <string name="etec">3° Novotec Desenvolvimento de Sistemas AMS</string>
-
+    <string name="etec">3° Novotec Desenvolvimento de Sistemas</string>
 </resources>
